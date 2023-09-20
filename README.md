@@ -6,13 +6,23 @@
 <br>
 <p>Please note that the projects in this repository are intended for educational and learning purposes only. They are designed to complement the theoretical knowledge gained through coursework and provide students with an opportunity to apply what they have learned in a real-world context.</p>
 
-<h2>Project Categories</h2>
+<h2>ProjectS </h2>
 <p>The projects in this repository are categorized by subject area or course. You will find projects related to various fields of study, including but not limited to:</p>
     <ul>
-        <li>Computer Science</li>
-        <li>Engineering</li>
-        <li>Science</li>
-        <li>Arts and Humanities</li>
+        <li>Program to enter two numbers and print the arithmetic operations like +,-,*, /, // and %.</li>
+        <li>Write a Program to check if the entered number is Armstrong or not</li>
+        <li>Write a Program to find factorial of the entered number.</li>
+        <li>Write a Program to enter the number of terms and to print the Fibonacci Series..</li>
+        <li>Write a Program to enter the string and to check if it’s palindrome or not using loop.</li>
+        <li>.Recursively find the factorial of a natural number.</li>
+        <li>Read a file line by line and print it.</li>
+        <li>Remove all the lines that contain the character “a” in a file and write it into another file.</li>
+        <li>Read a text file and display the number of vowels/consonants/uppercase/lowercase characters in the file.</li>
+        <li>Create a binary file with name and roll no. Search for a given roll number and display the name, if not found display appropriate message.</li>
+        <li>Write a random number generator that generates random numbers between 1 and 6(simulates a dice).</li>
+        <li>Write a python program to implement a stack using a list data structure.</li>
+        <li>Take a sample of ten phishing e-mails (any text file) and find most common.</li>
+        <li>Read a text file line by line and display each word separated by a # .</li>
         <!-- Add more categories as needed -->
     </ul>
 
