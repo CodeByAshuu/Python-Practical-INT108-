@@ -6,7 +6,7 @@
 <br>
 <p>Please note that the projects in this repository are intended for educational and learning purposes only. They are designed to complement the theoretical knowledge gained through coursework and provide students with an opportunity to apply what they have learned in a real-world context.</p>
 
-<h2>ProjectS </h2>
+<h2>Project </h2>
 <p>The projects in this repository are categorized by subject area or course. You will find projects related to various fields of study, including but not limited to:</p>
     <ul>
         <li>Program to enter two numbers and print the arithmetic operations like +,-,*, /, // and %.</li>
