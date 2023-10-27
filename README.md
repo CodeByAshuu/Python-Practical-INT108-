@@ -1,4 +1,4 @@
-# Python-Practical-INT108-
+# Python-Practical-
 <p>Welcome to the LPU Practical Projects Repository! This repository has been created for the purpose of learning and completing practical projects as part of the syllabus at Lovely Professional University (LPU).</p>
 <p>FOR 1ST YEAR PYTHON PROGRAMMING STUDENTS (INT108)</p>
 <h2>About this Repository</h2>
